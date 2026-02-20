@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "どんなときも。",
-  "base_artist": "Noriyuki Makihara",
-  "createdAt": "2025-12-27T00:23:03.606769Z",
+  "base_artist": "槇原敬之",
+  "createdAt": "2026-02-20T11:17:45.102073Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -115,78 +115,6 @@
       "artist": "槇原 敬之",
       "has_synced": false,
       "path": "select/pl_01_どんなときも。_槇原_敬之.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "どんなときも。",
-      "artist": "槇原 敬之",
-      "has_synced": false,
-      "path": "select/pl_02_どんなときも。_槇原_敬之.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "どんなときも。",
-      "artist": "槇原 敬之",
-      "has_synced": false,
-      "path": "select/pl_03_どんなときも。_槇原_敬之.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "どんなときも。",
-      "artist": "槇原 敬之",
-      "has_synced": false,
-      "path": "select/pl_04_どんなときも。_槇原_敬之.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "どんなときも。",
-      "artist": "槇原 敬之",
-      "has_synced": false,
-      "path": "select/pl_05_どんなときも。_槇原_敬之.txt"
-    },
-    {
-      "id": "petitlyrics_6",
-      "source": "petitlyrics",
-      "title": "どんなときも。",
-      "artist": "槇原 敬之",
-      "has_synced": false,
-      "path": "select/pl_06_どんなときも。_槇原_敬之.txt"
-    },
-    {
-      "id": "petitlyrics_7",
-      "source": "petitlyrics",
-      "title": "どんなときも。",
-      "artist": "槇原 敬之",
-      "has_synced": false,
-      "path": "select/pl_07_どんなときも。_槇原_敬之.txt"
-    },
-    {
-      "id": "petitlyrics_8",
-      "source": "petitlyrics",
-      "title": "どんなときも。",
-      "artist": "槇原 敬之",
-      "has_synced": false,
-      "path": "select/pl_08_どんなときも。_槇原_敬之.txt"
-    },
-    {
-      "id": "petitlyrics_9",
-      "source": "petitlyrics",
-      "title": "どんなときも。",
-      "artist": "槇原 敬之",
-      "has_synced": false,
-      "path": "select/pl_09_どんなときも。_槇原_敬之.txt"
-    },
-    {
-      "id": "petitlyrics_10",
-      "source": "petitlyrics",
-      "title": "どんなときも。",
-      "artist": "槇原 敬之",
-      "has_synced": false,
-      "path": "select/pl_10_どんなときも。_槇原_敬之.txt"
     }
   ]
 }
